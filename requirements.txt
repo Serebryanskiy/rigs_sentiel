@@ -1,2 +1,2 @@
 beautifulsoup4==4.7.1
-mysql-connector-python==8.0.16
+mysql-connector-python==9.1.0
